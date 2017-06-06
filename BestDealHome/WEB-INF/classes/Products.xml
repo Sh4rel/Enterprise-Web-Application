@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <console id="iPhone 7" retailer="iRetailer">
+        <image>iphone7.jpg</image>
+        <name>iPhone 7</name>
+        <condition>New</condition>
+        <price>839</price>
+        <accessories>
+            <accessory>iphone7 cover</accessory>
+            <accessory>ipad</accessory>
+        </accessories>
+    </console>
+    <console id="Z Plus" retailer="Sony Centre">
+        <image>sony_xperia_z.jpg</image>
+        <name>Z Plus</name>
+        <condition>New</condition>
+        <price>79</price>
+        <accessories>
+            <accessory>Sony Headsets</accessory>
+            <accessory>Wireless Bluetooth Speaker</accessory>
+        </accessories>
+        </console>
+		   <console id="S7 Edge" retailer="Samsung Store">
+        <image>sam2.jpg</image>
+        <name>S7 Edge</name>
+        <condition >New</condition>
+        <price>44</price>
+        <accessories>
+            <accessory>Samsung Headsets</accessory>
+            <accessory>Wireless Bluetooth Speaker</accessory>
+        </accessories>
+        </console>
+		  <console id="Redmi 7" retailer="Flip Store">
+        <image>xiaomi-phone-2s.jpg</image>
+        <name>Redmi 7</name>
+        <condition>New</condition>
+        <price>39</price>
+        <accessories>
+            <accessory>Redmi cover</accessory>
+            <accessory>Redmi tab</accessory>
+        </accessories>
+    </console>
+		  <console id="Redmi Tab" retailer="Flip Store">
+        <image>tab5.jpg</image>
+        <name>Redmi Tab</name>
+        <condition>New</condition>
+        <price>139</price>
+        <accessories>
+            <accessory>Redmi cover</accessory>
+            <accessory>Redmi tab</accessory>
+        </accessories>
+    </console>
+ <console id="iPad Air" retailer="iRetailer">
+        <image>tab5.jpg</image>
+        <name>iPad Air</name>
+        <condition>New</condition>
+        <price>209</price>
+        <accessories>
+            <accessory>iPad cover</accessory>
+            <accessory>iPad case</accessory>
+        </accessories>
+    </console>
+ <console id="S4 Tab" retailer="Samsung Store">
+        <image>tab3-sam.jpg</image>
+        <name>S4 Tab</name>
+        <condition>New</condition>
+        <price>164</price>
+        <accessories>
+            <accessory>sam cover</accessory>
+            <accessory>sam case</accessory>
+        </accessories>
+    </console>
+	 <console id="Macbook Air" retailer="iRetailer">
+        <image>lap4.jpg</image>
+        <name>Macbook Air</name>
+        <condition>New</condition>
+        <price>2009</price>
+        <accessories>
+            <accessory>Macbook cover</accessory>
+            <accessory>Macbook case</accessory>
+        </accessories>
+    </console>
+	
+	 <console id="Z510" retailer="Lenovo Store">
+        <image>lap2.jpg</image>
+        <name>Z510</name>
+        <condition>New</condition>
+        <price>1640</price>
+        <accessories>
+            <accessory>Lenovo cover</accessory>
+            <accessory>Lenovo case</accessory>
+        </accessories>
+    </console>
+		 <console id="Inspiron" retailer="Dell Store">
+        <image>lap5.jpg</image>
+        <name>Inspiron</name>
+        <condition>New</condition>
+        <price>1440</price>
+        <accessories>
+            <accessory>DELL cover</accessory>
+            <accessory>DELL case</accessory>
+        </accessories>
+    </console>
+	<console id="MI TV" retailer="Mi Store">
+        <image>tv2.jpg</image>
+        <name>MI TV</name>
+        <condition>New</condition>
+        <price>12009</price>
+        <accessories>
+            <accessory>Mi speaker</accessory>
+            <accessory>Mi charger</accessory>
+        </accessories>
+    </console>
+		<console id="Bravia" retailer="Mi Store">
+        <image>tv1.jpg</image>
+        <name>Bravia</name>
+        <condition>New</condition>
+        <price>16140</price>
+        <accessories>
+            <accessory>Sony speaker</accessory>
+            <accessory>Sony charger</accessory>
+        </accessories>
+    </console>
+	<console id="Smart TV" retailer="Mi Store">
+        <image>tv1.jpg</image>
+        <name>Smart TV</name>
+        <condition>New</condition>
+        <price>14440</price>
+        <accessories>
+            <accessory>Sam speaker</accessory>
+            <accessory>Sam charger</accessory>
+        </accessories>
+    </console>
+	
+	<console id="JBL 321" retailer="JBL Store">
+        <image>ac1.jpg</image>
+        <name>JBL 321</name>
+        <condition>New</condition>
+        <price>250</price>
+        <accessories>
+            <accessory>JBL speaker</accessory>
+            <accessory>JBL case</accessory>
+        </accessories>
+    </console>
+	
+	<console id="Bluetooth speaker" retailer="Sony Store">
+        <image>acc1.jpg</image>
+        <name>Sony Bluetooth speaker</name>
+        <condition>New</condition>
+        <price>35</price>
+        <accessories>
+            <accessory>Sony case</accessory>
+            <accessory>Sony sling</accessory>
+        </accessories>
+    </console>
+	<console id="Mi Powerbank" retailer="MI Store">
+        <image>acc2.jpg</image>
+        <name> Mi Powerbank</name>
+        <condition>New</condition>
+        <price>25</price>
+        <accessories>
+            <accessory>MI case</accessory>
+            <accessory>MI cover</accessory>
+        </accessories>
+    </console>
+	</Products>
